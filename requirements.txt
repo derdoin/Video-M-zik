@@ -20,4 +20,3 @@ git+https://github.com/MehmetAtes21/test
 tgcrypto
 gitpython
 heroku3
-speedtest-cli
