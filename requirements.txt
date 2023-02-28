@@ -16,7 +16,7 @@ psutil
 requests
 rich
 dnspython
-git+https://github.com/MehmetAtes21/test
+git+https://github.com/MehmetAtes21/Loading
 tgcrypto
 gitpython
 heroku3
